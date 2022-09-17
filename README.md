@@ -17,7 +17,7 @@ After download or clone the repo, you need to follow this steps to have the deve
   - npm start to run Client
   
 # Project Pictures
-![](client/public/GraphQL.png)
+![](client/public/GraphQL.png) 
 
 
 
